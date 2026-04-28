@@ -1,0 +1,7 @@
+services:
+  ml_app:
+    build: .
+    container_name: ml_batch_pipeline
+    volumes:
+      - .:/app
+    command: python app/batch_predict.py
