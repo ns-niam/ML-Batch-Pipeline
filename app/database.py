@@ -37,4 +37,4 @@ sample_data
 
 conn.commit()
 
-print("Database ready")
+print("Database is ready")
