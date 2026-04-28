@@ -49,10 +49,7 @@ Run batch prediction
 ```bash
 python app/batch_predict.py
 ```
-
-Run scheduler
-```bash
-python app/scheduler.py
+er.py
 ```
 
 ## Pipeline Flow
