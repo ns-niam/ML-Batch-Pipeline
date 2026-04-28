@@ -2,11 +2,11 @@ import sqlite3
 import joblib
 from datetime import datetime
 
-# connect db
 conn = sqlite3.connect("ml_pipeline.db")
 c = conn.cursor()
 
-# load model
+c.execute("DELETE FROM predictions")
+
 model = joblib.load("models/model.pkl")
 
 # read input data

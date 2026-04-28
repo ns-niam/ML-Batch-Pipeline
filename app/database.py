@@ -16,7 +16,7 @@ sample_data = [
 
 cursor.executemany(
 """
-INSERT INTO input_data
+INSERT OR REPLACE INTO input_data
 VALUES (?,?,?,?,?)
 """,
 sample_data
