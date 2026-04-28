@@ -256,7 +256,7 @@ Response:
 
 # Task Requirements Coverage
 
-| Academic Requirement                     | Status |
+|  Requirement                     | Status |
 | ---------------------------------------- | ------ |
 | Read input data from database            | ✅      |
 | Run trained ML model                     | ✅      |
@@ -266,7 +266,7 @@ Response:
 
 ---
 
-# Advanced Extensions Added Beyond Assignment
+# Advanced Extensions Added 
 
 * Streamlit Monitoring Dashboard
 * FastAPI Model Serving API
@@ -329,12 +329,12 @@ Quick access:
 # Author
 
 Niam
-Engineering Student | AI/ML | MLOps
+
+ AI/ML Engineering Student
 
 ---
 
 ## Project Status
 
 ✅ Completed and Functional
-✅ Academic Submission Ready
-✅ Internship Portfolio Ready
+
